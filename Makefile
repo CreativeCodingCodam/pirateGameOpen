@@ -1,4 +1,4 @@
-NAME	:= learngl
+NAME	:= pirateGame
 CC		:= g++
 FLAGS	:= -Wall -Wextra -Werror -pedantic -I./include -Iglfw-3.4/include -I/usr/local/include -Lglfw-3.4/build/src -L/usr/local/lib -std=c++17
 LIBS	:= -lglfw3 -lrt -lm -lGL -lX11 -lpthread -lXrandr -lXi -ldl
